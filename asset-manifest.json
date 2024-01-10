@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/anjal-react/static/css/main.06148e84.css",
+    "main.js": "/anjal-react/static/js/main.658c2154.js",
+    "static/js/787.8bb99d8b.chunk.js": "/anjal-react/static/js/787.8bb99d8b.chunk.js",
+    "index.html": "/anjal-react/index.html",
+    "main.06148e84.css.map": "/anjal-react/static/css/main.06148e84.css.map",
+    "main.658c2154.js.map": "/anjal-react/static/js/main.658c2154.js.map",
+    "787.8bb99d8b.chunk.js.map": "/anjal-react/static/js/787.8bb99d8b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06148e84.css",
+    "static/js/main.658c2154.js"
+  ]
+}
